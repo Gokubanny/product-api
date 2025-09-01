@@ -118,3 +118,12 @@ Headers:
 Authorization: Bearer YOUR_TOKEN_HERE
 
 Body: None
+
+
+
+<!-- git init
+git add .
+git commit -m "Initial commit: Complete product API with authentication and CRUD operations"
+git remote add origin origin https://github.com/Gokubanny/product-api.git
+git branch -M main
+git push -u origin main -->
